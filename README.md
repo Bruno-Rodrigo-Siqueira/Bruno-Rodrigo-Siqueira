@@ -1,8 +1,8 @@
-<h1> Olá! Sou o Bruno Siqueira </h1>
+<h1> Hello! I'm Bruno Siqueira </h1>
 
-- 🔭 Eu trabalho atualmente como analista, com foco nos requisitos dos projetos.
-- 🌱 Estou estudando HTML, CSS, e JavaScript.
-- 📫 Você fala comigo através do e-mail: brunosiqueiragestao@outlook.com
+- 🔭 I currently work as a Product Owner.
+- 🌱 I'm studying HTML, CSS, and JavaScript.
+- 📫 You talk to me by e-mail: brunosiqueiragestao@outlook.com
 
 <div align= "center">
   <a href="https://github.com/Bruno-Rodrigo-Siqueira">
